@@ -12,13 +12,12 @@
   http://www.imparareaprogrammare.it
 */
 
-var a = 1987;
+var a = 1950;
 var m = 1;
-var g = 8;
+var g = 25;
 
-if (m>2) {a = 2021-a-1;
+if (m>2){if (g>2) {a = 2021-a-1;}
   console.log('la tua età è di' +  a  + 'anni');
-
 } else { a = 2021-a;
   console.log('la tua età è di' + a + 'anni');
 
